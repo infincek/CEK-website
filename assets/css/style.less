@@ -1,12 +1,18 @@
 @fontColor : #667;
 @fontBoldColor : #222;
 @primaryGreen : #00c853;
+@secondaryColor : #42a5f5;
 @lightGrey : #eceff1;
 @sectionColor : #f9f9ff;
+@lightGreenGray : #f1f8e9;
 
 body{
 	font-family:"Open Sans",sans-serif;
 	color:@fontColor;
+}
+
+body.page{
+	background: @sectionColor;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -16,10 +22,20 @@ h1,h2,h3,h4,h5,h6{
 
 b{
 	color:darken(@fontColor,10%);
+	&.imp{
+		font-size: 1.2em;
+	}
 }
 
 p{
 	line-height: 1.9;
+}
+
+.btn{
+	background: @secondaryColor;
+	&:hover{
+		background: darken(@secondaryColor, 10%);
+	}
 }
 
 .font-2{
@@ -74,6 +90,9 @@ p{
 
 nav{
 	text-align: center;
+	ul li a{
+		outline: 0;
+	}
 	#nav-mobile{
 		display:inline-block;
 	}
@@ -84,6 +103,7 @@ nav{
 	li{
 		a{
 			color: #fff;
+			outline: 0;
 		}
 		&:hover{
 			background: rgba(0,0,0,.05);
@@ -107,7 +127,7 @@ nav{
 }
 
 #wall .carousel img{
-	max-height:650px;
+	max-height:500px;
 }
 
 #announcements-strip{
@@ -208,6 +228,46 @@ nav{
 	}
 }
 
+#campus-life{
+	img{
+		width: 100%;
+	}
+	.contents{
+		position: relative;
+	}
+	.owl-prev,.owl-next{
+		position: absolute;
+	    left: -50px;
+	    top: 50%;
+	    transform: translate(0,-50%);
+	    background: transparent;
+	    outline: 0;
+	    border: 0;
+	    color: @secondaryColor;
+	    font-size: 3em;
+	}
+	.owl-dots{
+		text-align: center;
+		.owl-dot{
+			background: transparent;
+		    outline: 0;
+		    border: 0;
+		    background: @lightGrey;
+		    width: 10px;
+		    height: 10px;
+		    border-radius: 50%;
+		    margin: 0 5px;
+		    &.active{
+		    	background: darken(@lightGrey,10%);
+		    }
+		}
+	}
+	.owl-next{
+		left: auto;
+		right: -50px;
+	}
+}
+
 #departments{
 	 .row > .col{
 		padding:10px;
@@ -301,6 +361,41 @@ nav{
 	padding: 10px;
 	text-align: center;
 	color: #fff;
+}
+
+
+.page-contents{
+	background: #fff;
+	margin: 5px auto;
+	margin-bottom: 30px;
+	.title{
+		padding: 20px 0;
+	}
+	.contents{
+		padding: 20px 30px;
+		p,ul,table{
+			margin: 20px 0;
+		}
+		table{
+			thead{
+				background: @primaryGreen;
+				color: #fff;
+			}
+			tbody{
+				tr{
+					td{
+						padding:15px 10px;
+					}
+					&:nth-child(odd){
+						background: @sectionColor;
+					}
+					&:nth-child(even){
+						background: @lightGreenGray;
+					}
+				}
+			}
+		}
+	}
 }
 
 @media only screen and (max-width:992px){
