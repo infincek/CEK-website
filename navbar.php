@@ -62,11 +62,11 @@
 			</ul>
 			<ul id="departments-dropdown" class="dropdown-content">
 				<li><a href="#">Civil Engineering</a></li>
-				<li><a href="#">EEE</a></li>
-				<li><a href="#">EIE</a></li>
-				<li><a href="#">ECE</a></li>
-				<li><a href="#">CS</a></li>
-				<li><a href="#">IT</a></li>
+				<li><a href="#">Electrical and Electronics Engineering</a></li>
+				<li><a href="#">Electronics and Instrumentation Engineering</a></li>
+				<li><a href="#">Electronics and Communication Engineering</a></li>
+				<li><a href="#">Computer Science</a></li>
+				<li><a href="#">Information Technology</a></li>
 				<li><a href="#">Humanities and Science</a></li>
 			</ul>
 			<ul id="facilities-dropdown" class="dropdown-content">
