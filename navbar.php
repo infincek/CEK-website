@@ -44,7 +44,7 @@
 				        	<li><a href="#" class="dropdown-trigger" data-target="departments-dropdown">Departments</a></li>
 				        	<li><a href="#" class="dropdown-trigger" data-target="facilities-dropdown">Facilities</a></li>
 				        	<li><a href="#">Placement</a></li>
-				        	<li><a href="#">Contact</a></li>
+				        	<li><a href="#">Contact Us</a></li>
 				      	</ul>
 				    </div>
 			    </div>
@@ -84,7 +84,7 @@
 	        	<li><a href="#">Faculty</a></li>
 	        	<li><a href="#">Departments</a></li>
 	        	<li><a href="#">Placement</a></li>
-	        	<li><a href="#">Contact</a></li>
+	        	<li><a href="#">Contact Us</a></li>
 	        	<li><div class="divider"></div></li>
 	        	<li><a class="subheader">Phone</a></li>
 	        	<li><p><span>+91-48 22-256 056</span><span>+9188255056</span></p></li>
