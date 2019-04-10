@@ -5,7 +5,7 @@
 						<div class="col logo item s12 m4">
 							<img src="assets/img/logo.png" alt="College of Engineering Kidangoor"/>
 						</div>
-						<div class="col ph item s6 m2 offset-m2">
+						<div class="col ph item s6 offset-m2 m2">
 							<i class="fa fa-phone"></i>
 							<p>
 								<span>Phone</span>
