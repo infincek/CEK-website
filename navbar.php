@@ -79,11 +79,12 @@
 				<li class="user-view"><a href="/"><img src="assets/img/logo.png" alt="College of Engineering Kidangoor"/></a></li>
 				<li><div class="divider"></div></li>
 			    <li><a href="/">Home</a></li>
-	        	<li><a href="/about-us">About Us</a></li>
-	        	<li><a href="#">Academic</a></li>
-	        	<li><a href="#">Faculty</a></li>
-	        	<li><a href="#">Departments</a></li>
-	        	<li><a href="#">Placement</a></li>
+	        	<li><a data-target="about-dropdown" href="aboutus.php">About Us</a></li>
+	        	<li><a href="admission.php">Admission 2019-20</a></li>
+	        	<li><a data-target="academics-dropdown" href="#">Academics</a></li>
+	        	<li><a href="#" data-target="departments-dropdown">Departments</a></li>
+	        	<li><a href="#" data-target="facilities-dropdown">Facilities</a></li>
+	        	<li><a href="placement.php">Placement</a></li>
 	        	<li><a href="#">Contact</a></li>
 	        	<li><div class="divider"></div></li>
 	        	<li><a class="subheader">Phone</a></li>
