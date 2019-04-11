@@ -1,6 +1,7 @@
 @fontColor : #667;
+@alternateFont : #fff;
 @fontBoldColor : #222;
-@primaryGreen : #00c853;
+@primaryColor : #00c853;
 @secondaryColor : #42a5f5;
 @lightGrey : #eceff1;
 @sectionColor : #f9f9ff;
@@ -56,29 +57,35 @@ p{
 
 .top{
 	padding:20px;
+	padding-bottom: 10px;
+	&>.row{
+		margin-bottom: 0;
+	}
 	.item{
 		position:relative;
 		padding:10px;
 		color:#777;
 		img{
-			width:100%;
+			width:85%;
 		}
 		i{
 			position:absolute;
 			top:15px;
 			left:10px;
-			color:@primaryGreen;
+			color:@primaryColor;
 		}
 		p{
 			padding-left:20px;
 			margin:0;
 			span{
 				display:block;
+				font-size: 0.8em;
 				&:first-child{
 					font-weight:800;
+					font-size: 1em;
 					letter-spacing:1px;
 					text-transform:uppercase;
-					color:@primaryGreen;
+					color:@primaryColor;
 				}
 			}
 		}
@@ -90,6 +97,12 @@ p{
 
 nav{
 	text-align: center;
+	&.fixed{
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 9999;
+	}
 	ul li a{
 		outline: 0;
 	}
@@ -99,7 +112,7 @@ nav{
 }
 
 .dropdown-content{
-	background: darken(@primaryGreen,5%);
+	background: darken(@primaryColor,5%);
 	li{
 		a{
 			color: #fff;
@@ -111,8 +124,15 @@ nav{
 	}
 }
 
-.sidenav li img{
-	width:100%;
+.sidenav li{
+	.dropdown-content{
+		position: relative;
+		width: 100%;
+		opacity: 1;
+	}
+ 	img{
+		width:100%;
+	}
 }
 
 .sidenav li > p{
@@ -131,7 +151,7 @@ nav{
 }
 
 #announcements-strip{
-	background: @primaryGreen;
+	background: @primaryColor;
 	color: #fff;
 	padding: 15px;
 	padding-left: 40px;
@@ -190,7 +210,7 @@ nav{
 		position:absolute;
 		height:6px;
 		width:20%;
-		background:@primaryGreen;
+		background:@primaryColor;
 		bottom:0px;
 		left:0;
 	}
@@ -216,7 +236,7 @@ nav{
 			border-radius:15px;
 			transition:box-shadow .5s;
 			&.imp{
-				border-left: 8px solid @primaryGreen;
+				border-left: 8px solid @primaryColor;
 			}
 			img{
 				max-width: 100%;
@@ -234,6 +254,7 @@ nav{
 	}
 	.contents{
 		position: relative;
+		overflow: hidden;
 	}
 	.owl-prev,.owl-next{
 		position: absolute;
@@ -326,7 +347,7 @@ nav{
 			margin-right:15px;
 			margin-top:5px;
 			vertical-align:top;
-			color:@primaryGreen;
+			color:@primaryColor;
 		}
 		.data{
 			display:inline-block;
@@ -342,7 +363,7 @@ nav{
 }
 
 #footer{
-	background:@primaryGreen;
+	background:@primaryColor;
 	color:#fff;
 	.title h2,a{
 		color:#fff;
@@ -357,7 +378,7 @@ nav{
 }
 
 #copyright{
-	background: darken(@primaryGreen, 10%);
+	background: darken(@primaryColor, 10%);
 	padding: 10px;
 	text-align: center;
 	color: #fff;
@@ -366,8 +387,7 @@ nav{
 
 .page-contents{
 	background: #fff;
-	margin: 5px auto;
-	margin-bottom: 30px;
+	margin: 30px auto;
 	.title{
 		padding: 20px 0;
 	}
@@ -378,7 +398,7 @@ nav{
 		}
 		table{
 			thead{
-				background: @primaryGreen;
+				background: @primaryColor;
 				color: #fff;
 			}
 			tbody{
@@ -391,6 +411,72 @@ nav{
 					}
 					&:nth-child(even){
 						background: @lightGreenGray;
+					}
+				}
+			}
+		}
+		.faculty-members{
+		  	display: flex;
+		  	flex-wrap: wrap;
+			.member{
+				padding: 15px;
+				margin-left: 0;
+				.box{
+					border-radius: 5px;
+					overflow: hidden;
+					box-shadow: 2px 2px 10px -1px rgba(0,0,0,.2);
+					position: relative;
+					.image img{
+						width: 100%;
+						display: block;
+					}
+					.overlay{
+						display: flex;
+						justify-content: center;
+						align-items: center; 
+						position: absolute;
+						width: 100%;
+						height: 100%;
+						top: 100%;
+						transition: top .35s;
+						background: @secondaryColor;
+						color: @alternateFont;
+						font-size: 2em;
+						opacity: .9;
+					}
+					.overlay-link{
+						position: absolute;
+						width: 100%;
+						height: 100%;
+						top: 0;
+						left: 0;
+					}
+					.description{
+						background: @secondaryColor;
+						position: absolute;
+						width: 100%;
+						color: @alternateFont;
+						bottom: 0;
+						padding: 10px;
+						transition: opacity .35s;
+						p{
+							margin: 0;
+							&.name{
+								font-weight: bold;
+							}
+							&.detail{
+								font-size: 0.9em;
+								color: darken(@alternateFont,5%);
+							}
+						}
+					}
+					&:hover{
+						.overlay{
+							top: 0%;
+						}
+						.description {
+							opacity: 0;
+						}
 					}
 				}
 			}
