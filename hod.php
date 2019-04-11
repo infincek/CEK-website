@@ -1,4 +1,4 @@
-<?php $title = "HOD | CEK"; 
+<?php $title = "Head of Departments | CEK"; 
 include "head.php";
 ?>
 <body class="page">
@@ -6,33 +6,63 @@ include "head.php";
 		<?php require "navbar.php"; ?>
 		<div class="page-contents container">
 			<div class="title center">
-				<h1 class="underlined"><span>HEAD OF DEPARTMENT</span></h1>
+				<h1 class="underlined"><span>Head of Departments</span></h1>
 			</div>
 			<div class="contents">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<div class="row faculty-members">
+					<div class="col s12 m6 l4 member">
+						<div class="box">
+							<div class="image">
+								<img src="https://placeimg.com/400/500/people" alt="HOD-NAME-HERE"/>
+							</div>
+							<div class="overlay"><i class="fa fa-link"></i></div>
+							<div class="description">
+								<p class="name">HOD Name</p>
+								<p class="detail">CSE</p>
+							</div>
+							<a href="#" class="overlay-link"></a>
+						</div>
+					</div>
+					<div class="col s12 m6 l4 member">
+						<div class="box">
+							<div class="image">
+								<img src="https://placeimg.com/401/501/people" alt="HOD-NAME-HERE"/>
+							</div>
+							<div class="overlay"><i class="fa fa-link"></i></div>
+							<div class="description">
+								<p class="name">HOD Name</p>
+								<p class="detail">EEE</p>
+							</div>
+							<a href="#" class="overlay-link"></a>
+						</div>
+					</div>
+					<div class="col s12 m6 l4 member">
+						<div class="box">
+							<div class="image">
+								<img src="https://placeimg.com/402/502/people" alt="HOD-NAME-HERE"/>
+							</div>
+							<div class="overlay"><i class="fa fa-link"></i></div>
+							<div class="description">
+								<p class="name">HOD Name</p>
+								<p class="detail">EI</p>
+							</div>
+							<a href="#" class="overlay-link"></a>
+						</div>
+					</div>
+					<div class="col s12 m6 l4 member">
+						<div class="box">
+							<div class="image">
+								<img src="https://placeimg.com/403/503/people" alt="HOD-NAME-HERE"/>
+							</div>
+							<div class="overlay"><i class="fa fa-link"></i></div>
+							<div class="description">
+								<p class="name">HOD Name</p>
+								<p class="detail">EI</p>
+							</div>
+							<a href="#" class="overlay-link"></a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 		<?php require "footer.php"; ?>
