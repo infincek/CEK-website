@@ -13,6 +13,7 @@ $(document).ready(function(){
     $("#mobile a[data-target]").each(function(){
         var li = $(this).parent();
         var target = $(this).attr("data-target");
+		target.removeAttr("id");
         li.append($("#"+target)[0]);
         $(this).removeAttr("data-target");
         $(this).click(function(e){
@@ -22,7 +23,6 @@ $(document).ready(function(){
     })
     var navTop = $("nav").offset().top;
     $(window).scroll(function(){
-        console.log(navTop,$(this).scrollTop())
         if($(this).scrollTop() > navTop){
             $("nav").addClass("fixed");
         }else{
