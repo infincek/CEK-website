@@ -13,20 +13,20 @@ include "head.php";
 					<div class="col s12 m6 l4 member">
 						<div class="box">
 							<div class="image">
-								<img src="https://placeimg.com/400/500/people" alt="HOD-NAME-HERE"/>
+								<img src="assets/img/male.jpg" alt="HOD-NAME-HERE"/>
 							</div>
 							<div class="overlay"><i class="fa fa-link"></i></div>
 							<div class="description">
-								<p class="name">HOD Name</p>
+								<p class="name">Ojus Thomas Lee</p>
 								<p class="detail">CSE</p>
 							</div>
-							<a href="#" class="overlay-link"></a>
+							<a href="ojus.php" class="overlay-link"></a>
 						</div>
 					</div>
 					<div class="col s12 m6 l4 member">
 						<div class="box">
 							<div class="image">
-								<img src="https://placeimg.com/401/501/people" alt="HOD-NAME-HERE"/>
+								<img src="assets/img/female.jpg" alt="HOD-NAME-HERE"/>
 							</div>
 							<div class="overlay"><i class="fa fa-link"></i></div>
 							<div class="description">
@@ -39,7 +39,7 @@ include "head.php";
 					<div class="col s12 m6 l4 member">
 						<div class="box">
 							<div class="image">
-								<img src="https://placeimg.com/402/502/people" alt="HOD-NAME-HERE"/>
+								<img src="assets/img/male.jpg" alt="HOD-NAME-HERE"/>
 							</div>
 							<div class="overlay"><i class="fa fa-link"></i></div>
 							<div class="description">
@@ -52,7 +52,7 @@ include "head.php";
 					<div class="col s12 m6 l4 member">
 						<div class="box">
 							<div class="image">
-								<img src="https://placeimg.com/403/503/people" alt="HOD-NAME-HERE"/>
+								<img src="assets/img/female.jpg" alt="HOD-NAME-HERE"/>
 							</div>
 							<div class="overlay"><i class="fa fa-link"></i></div>
 							<div class="description">

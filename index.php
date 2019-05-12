@@ -16,7 +16,7 @@ include "head.php";
 			<i class="fa fa-bell ico"></i>
 			<div class="strip">
 				<ul>
-					<li>College of Engineering Kidangoor invites sealed tenders from the registerd Contractors for Painting and construction work. For getting previous details</li>
+					<li>College of Engineering Kidangoor invites sealed tenders from the registered Contractors for Painting and construction work. For getting previous details</li>
 				</ul>
 			</div>
 		</div>
@@ -104,7 +104,7 @@ include "head.php";
 						<div class="item">
 							<div class="row">
 								<div class="col s12 m6 l5">
-									<img src="https://placeimg.com/401/501/all" alt="Campus Life"/>
+									<img src="assets/img/lumiere18.jpg" alt="Campus Life"/>
 								</div>
 								<div class="col s12 m6 l7">
 									<h3>Lumiere</h3>
@@ -112,7 +112,7 @@ include "head.php";
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 									consequat.</p>
-									<a class="btn btn-medium waves-effect" href="#">Know More</a>
+									<a class="btn btn-medium waves-effect" href="lumiere.php">Know More</a>
 								</div>
 							</div>
 						</div>
@@ -130,7 +130,7 @@ include "head.php";
 						<div class="col s12 m6 l4">
 							<div class="department">
 								<div class="image">
-									<img src="assets/img/cse.jpg" alr="CSE"/>
+									<img src="assets/img/cslogo.png" alr="CSE"/>
 								</div>
 								<div class="description">
 									<a class="overlay-link" href="#"></a>
@@ -142,7 +142,7 @@ include "head.php";
 						<div class="col s12 m6 l4">
 							<div class="department">
 								<div class="image">
-									<img src="assets/img/ece.jpg" alr="ECE"/>
+									<img src="assets/img/eclogo1.jpg" alr="ECE"/>
 								</div>
 								<div class="description">
 									<a class="overlay-link" href="#"></a>
@@ -154,7 +154,7 @@ include "head.php";
 						<div class="col s12 m6 l4">
 							<div class="department">
 								<div class="image">
-									<img src="assets/img/eee.jpg" alr="EEE"/>
+									<img src="assets/img/eeelogo.jpg" alr="EEE"/>
 								</div>
 								<div class="description">
 									<a class="overlay-link" href="#"></a>
@@ -166,7 +166,7 @@ include "head.php";
 						<div class="col s12 m6 l4">
 							<div class="department">
 								<div class="image">
-									<img src="assets/img/eie.jpg" alr="EI"/>
+									<img src="assets/img/eilogo.jpg" alr="EI"/>
 								</div>
 								<div class="description">
 									<a class="overlay-link" href="#"></a>
@@ -178,7 +178,7 @@ include "head.php";
 						<div class="col s12 m6 l4">
 							<div class="department">
 								<div class="image">
-									<img src="assets/img/cse.jpg" alr="IT"/>
+									<img src="assets/img/newit1.jpg" alr="IT"/>
 								</div>
 								<div class="description">
 									<a class="overlay-link" href="#"></a>
@@ -190,7 +190,7 @@ include "head.php";
 						<div class="col s12 m6 l4">
 							<div class="department">
 								<div class="image">
-									<img src="assets/img/ce.jpg" alr="CE"/>
+									<img src="assets/img/civilogo.jpg" alr="CE"/>
 								</div>
 								<div class="description">
 									<a class="overlay-link" href="#"></a>
@@ -283,7 +283,10 @@ include "head.php";
 			items:1,
 			nav:true,
 			dots:true,
-			loop:true
+			loop:true,
+			autoplay:true,
+			autoplayTimeout:5000,
+			autoplayHoverPause:true
 		});
 	</script>
 </body>

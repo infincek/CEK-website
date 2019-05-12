@@ -9,24 +9,40 @@ include "head.php";
 				<h1 class="underlined"><span>Civil engineering</span></h1>
             </div>
             <div class="image">
-            <img src="assets/img/civil.jpg" alr="ECE" height="500" width="100%">
+            <img src="assets/img/civil.jpg" alr="ECE"  width="100%">
            </div>
 			<div class="contents">
 				<p>The <b>Civil Engineering</b> Department was established in 2010, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.</p>
-                <p>Head Of the Department : <b> Dr.Mathew B.V</b>
-                <br>
+                <!-- <p>Head Of the Department : <b> Dr.Mathew B.V</b> -->
                  <p>Seat Available : 60 + 3 *</p>
 				<p><b>Accreditation Status : Applied-Accreditation in process.SAR filed</b></p>
 				<div class="row">
 						<div class="col s12 m6">
-							<p class="font-2"><b>Vission</b></p>
+							<p class="font-2"><b>Vision</b></p>
 							<p> To be a leading centre of eminence, providing competent civil engineering professionals, with state of the art knowledge of the industry and commitment to sustainable development of the society.</p>
 						</div>
 						<div class="col s12 m6">
-							<p class="font-2"><b>Mision</b></p>
+							<p class="font-2"><b>Mission</b></p>
     						<p>  To provide quality education to students at undergraduate through constant knowledge upgradation and, to strive to maintain pace with the latest and most sophisticated innovations, research and development in the field of civil engineering within the ambit of sustainable development.</p>
                         </div>
-                        </div>  
+                        </div>
+						<div class="contents">
+					<h3>Head of the Department</h3>
+					<div class="row faculty-members">
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/male.jpg" alt="HOD-NAME-HERE"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Dr.Mathew B.V</p>
+									<p class="subj">Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+					</div>  
                          <div class="col s12 m6">  
                             <p class="font-2"><b>Program educational objectives</b></p>
                             <p> The following objectives are what the faculty expects graduates from the program to be able to accomplish a few years after the commencement of their careers and stem directly from the program mission. The alumni from the Bachelor of Technology in Civil Engineering (B. Tech. CE) program at Civil Engineering Department of College of Engineering Kidangoor should:</p>
@@ -65,6 +81,114 @@ include "head.php";
 								<li>Ability to evaluate the project costs including that of the environmental impacts.</li>
 								<li>Ability to use various software and tools required for professional civil engineering practice.</li>
                            </ol>
+					<h3>Faculties</h3>
+					<div class="row faculty-members">
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Mary James Kappen</p>
+									<p class="subj">Subject Name</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Bindiya Hari P</p>
+									<p class="subj">Subject Name</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Gitty Rose Eugine</p>
+									<p class="subj">Subject Name</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Sreekumari T K</p>
+									<p class="subj">Subject Name</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/male.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Appu.P</p>
+									<p class="subj">Subject Name</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Geethu Ann Joseph</p>
+									<p class="subj">Subject Name</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Jereen Ann Thomas</p>
+									<p class="subj">Subject Name</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Megha</p>
+									<p class="subj">Subject Name</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+					</div>
+					</div>
                           </div>
 						</div>
 		</div>
