@@ -8,65 +8,212 @@ include "head.php";
 			<div class="title center">
 				<h2 class="underlined"><span>Electrical Engineering</span></h2>
             </div>
-            <div class="image">
-            <img src="assets/img/eee.jpg" alr="ECE" height="500" width="100%">
-           </div>
+           
 			<div class="contents">
-				<p>The <b>Civil Engineering</b> Department was established in 2010, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.</p>
-                <p>Head Of the Department : <b> Dr.Mathew B.V</b>
-                <br>
-                 <p>Seat Available : 60 + 3 *</p>
+				<div class="image">
+            		<img src="assets/img/eee.jpg" alr="ECE" width="100%">
+           		</div>
+				<p>The <b>Electrical Engineering</b> Department was established in 2004, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.</p>
+                 <p><b>Seat Available : </b>60 + 3 *</p>
 				<p><b>Accreditation Status : Applied-Accreditation in process.SAR filed</b></p>
 				<div class="row">
-						<div class="col s12 m6">
-							<p class="font-2"><b>Vission</b></p>
-							<p> To be a leading centre of eminence, providing competent civil engineering professionals, with state of the art knowledge of the industry and commitment to sustainable development of the society.</p>
+					<div class="col s12 m6">
+						<p class="font-2"><b>Vision</b></p>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi quo, nobis ipsa laborum dicta ab fugiat ea, molestiae labore deserunt in ratione! Laborum, asperiores dolorum. Praesentium voluptatibus rerum impedit. Illo.</p>
+					</div>
+					<div class="col s12 m6">
+						<p class="font-2"><b>Mission</b></p>
+						<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia corporis qui, sequi accusantium quibusdam veritatis, inventore assumenda ab doloribus laborum eaque unde magni, dignissimos quas totam aperiam at exercitationem saepe.</p>
+					</div>
+					</div> 
+					<div class="contents">
+					<h3>Head of the Department</h3>
+					<div class="row faculty-members">
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="HOD-NAME-HERE"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Indhu P. Nair</p>
+									<p class="subj">Associate Professor </p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
 						</div>
-						<div class="col s12 m6">
-							<p class="font-2"><b>Mision</b></p>
-    						<p>  To provide quality education to students at undergraduate through constant knowledge upgradation and, to strive to maintain pace with the latest and most sophisticated innovations, research and development in the field of civil engineering within the ambit of sustainable development.</p>
-                        </div>
-                        </div>  
-                         <div class="col s12 m6">  
-                            <p class="font-2"><b>Program educational objectives</b></p>
-                            <p> The following objectives are what the faculty expects graduates from the program to be able to accomplish a few years after the commencement of their careers and stem directly from the program mission. The alumni from the Bachelor of Technology in Civil Engineering (B. Tech. CE) program at Civil Engineering Department of College of Engineering Kidangoor should:</p>
-							<ol type="1">
-								<li>Practice in civil engineering or a related field.</li>
-								<li>Practice and propagate concept of sustainable engineering.</li>
-								<li>Pursue advanced or continuing education in civil engineering or a related field.</li>
-                                <li>Act as responsible, effective, and ethical citizens.</li>
-                                <li>Communicate and collaborate effectively.</li>
-                           </ol> 
-                           </div>
-                           <div class="col s12 m6">
-                            <p class="font-2"><b>Program Outcomes</b></p>
-							<p> Upon graduating from the B. Tech. program of Civil Engineering Department of College of Engineering Kidangoor, students should possess:</p>
-							<ol type="1">
-								<li>An ability to apply knowledge of mathematics, science, and engineering.</li>
-								<li>An ability to design and conduct experiments, as well as to analyze and interpret data.</li>
-								<li>An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability and sustainability.</li>
-                                <li>An ability to function on multi-disciplinary teams.</li>
-                                <li>An ability to identify, formulate, and solve engineering problems.</li>
-                                <li>An understanding of professional and ethical responsibility as well as the importance of professional licensure.</li>
-                                <li>An ability to communicate effectively.</li>
-                                <li>The broad education necessary to understand the impact of engineering solutions in a global and societal context.</li>
-                                <li>A recognition of the need for, and an ability to engage in life-long learning.</li>
-                                <li>A knowledge of contemporary issues.</li>
-                                <li>An ability to use the techniques, skill, and modern engineering tools necessary for engineering practice.</li>
-                                <li>An ability to explain basic concepts in management, business, public policy, and leadership.</li>
-                                <li>An ability to evaluate concepts and ideas from alternative perspectives.</li>
-                           </ol>
-                           </div>
-                            <div class="col s12 m6">
-							<p ><b>Specific Outcomes</b></p>
-							<p> The students graduating from the program should possess</p>
-							<ol type="1">
-								<li>Ability to carry out civil engineering planning and design independently..</li>
-								<li>Ability to evaluate the project costs including that of the environmental impacts.</li>
-								<li>Ability to use various software and tools required for professional civil engineering practice.</li>
-                           </ol>
-                          </div>
+					</div> 
+					<h4>Laboratories Under the Department</h4>
+            <ul>
+              <li><strong style="color:#000"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Basic Electrical Lab s</strong></li>
+            </ul>
+            <div>This lab aims at familiarizing the students with the different theorems, laws, networks, circuits etc. which are the basic building materials of all those huge electrical equipments, transmission lines, motors, generators etc. The purpose of this lab is to provide a clear concept with basic idea related to electrical circuits RC, RL,LC, RLC, etc. </div>
+            <div>
+              <div></div>
+              <ul>
+                <li><strong style="color:#000"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Electrical Measurements Lab </strong></li>
+              </ul>
+              <div>This lab aims at providing the basic concepts for measuring the different electrical parameters like voltage, current, power, unknown parameters etc. with precision& calibration of different types of instruments and also to impart knowledge on the working s of the different types of measuring instruments</div>
+            </div>
+            <div>
+              <div></div>
+              <ul>
+                <li><strong style="color:#000"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Microprocessor and Digital Lab </strong></li>
+              </ul>
+              <div>     This lab is equipped with latest state of the art technology equipment. It offers simple experiments for understanding the subject and advance facilities to conduct microprocessor, microcontroller and DSP Projects. </div>
+            </div>
+            <div>
+              <div></div>
+              <ul>
+                <li><strong style="color:#000"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Power Electronics Lab </strong></li>
+              </ul>
+              <div> The power electronics lab consists of different kinds of demo kits starting from SCR characteristics, study kit for D.C motor control using chopper. The lab is equipped with Digital Integrated kits, Power supplies etc </div>
+            </div>
+            <div>
+              <div></div>
+              <ul>
+                <li><strong style="color:#000"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Electrical Machines Lab </strong></li>
+              </ul>
+              <div> The laboratory imparts the knowledge about characteristics and behavior of the DC and AC Machines. Well established with all kinds of motors and generators with the total cost of about Rs.20lakhs. </div>
+            </div>
+            <div>
+              <div></div>
+			  </div>
+        	<h3>Faculties</h3>
+					<div class="row faculty-members">
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Sreekala V</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
 						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Salini M Venugopal</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Binimol V.K</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/male.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Anith Krishnan</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Soumya K. G</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Raji Reghunathan</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Reshmi k.Raj </p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Raji Reghunathan </p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Sonima M P </p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Jasmi M S</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 		<?php require "footer.php"; ?>
 	</div>

@@ -33,8 +33,8 @@
 			</div>
 			<nav class="nav-center green accent-4">
 			    <div class="nav-wrapper">
-			    	<div class="container">
-				    	<a href="/" class="center brand-logo hide-on-large-only">CEK</a>
+			    	<div class="container-fluid">
+				    	<a href="/" class="center brand-logo hide-on-large-only"><img src="assets/img/moblogo.png" alt="CEK" height="50"/></a>
 				    	<a href="#" data-target="mobile" class="sidenav-trigger"><i class="fa fa-bars"></i></a>
 				      	<ul id="nav-mobile" class="hide-on-med-and-down">
 				        	<li><a href="/">Home</a></li>
@@ -62,11 +62,11 @@
 			</ul>
 			<ul id="departments-dropdown" class="dropdown-content">
 				<li><a href="civil.php">Civil Engineering</a></li>
-				<li><a href="ee.php">EEE</a></li>
-				<li><a href="ei.php ">EIE</a></li>
-				<li><a href="ec.php">ECE</a></li>
-				<li><a href="cs.php">CS</a></li>
-				<li><a href="it.php">IT</a></li>
+				<li><a href="ee.php">Electrical Engineering</a></li>
+				<li><a href="ei.php ">Electronics & instrumentation</a></li>
+				<li><a href="ec.php">Electronics & communication</a></li>
+				<li><a href="cs.php">Computer science</a></li>
+				<li><a href="it.php">Information Technology</a></li>
 				<li><a href="humanities.php">Humanities and Science</a></li>
 			</ul>
 			<ul id="facilities-dropdown" class="dropdown-content">

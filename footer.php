@@ -34,7 +34,6 @@
 						</div>
 					</div>
 					<div class="row">
-						Hello
 					</div>
 				</div>
 			</div>

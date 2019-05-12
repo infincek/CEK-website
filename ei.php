@@ -9,64 +9,135 @@ include "head.php";
 				<h2 class="underlined"><span>Electronics and Instrumentation</span></h2>
             </div>
             <div class="image">
-            <img src="assets/img/eie.jpg" alr="ECE" height="500" width="100%">
+            <img src="assets/img/eie.jpg" alr="ECE"  width="100%">
            </div>
 			<div class="contents">
-				<p>The <b>Civil Engineering</b> Department was established in 2010, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.</p>
-                <p>Head Of the Department : <b> Dr.Mathew B.V</b>
-                <br>
-                 <p>Seat Available : 60 + 3 *</p>
+				<p>The <b>Civil Engineering</b>    The Department was established in 2000, and now has become a full-fledged department with advanced laboratory facilities to train the students to meet the current needs of the fast changing industrial scenario.</p>
+                <!-- <p>Head Of the Department : <b> Dr.Mathew B.V</b> -->
+                 <p><b>Seat Available : </b>60 + 3 *</p>
 				<p><b>Accreditation Status : Applied-Accreditation in process.SAR filed</b></p>
 				<div class="row">
 						<div class="col s12 m6">
-							<p class="font-2"><b>Vission</b></p>
-							<p> To be a leading centre of eminence, providing competent civil engineering professionals, with state of the art knowledge of the industry and commitment to sustainable development of the society.</p>
+							<p class="font-2"><b>Vision</b></p>
+							<p>   To develop competent Electronics and Instrumentation Engineers with high academic credentials and to make the department recognized as a center of the learning community ,research, fraternity and industry.</p>
 						</div>
 						<div class="col s12 m6">
-							<p class="font-2"><b>Mision</b></p>
-    						<p>  To provide quality education to students at undergraduate through constant knowledge upgradation and, to strive to maintain pace with the latest and most sophisticated innovations, research and development in the field of civil engineering within the ambit of sustainable development.</p>
+							<p class="font-2"><b>Mission</b></p>
+    						<p>  The mission of the department of Electronics and Instrumentation Engineering is to mould its students into competent Electronics and Instrumentation Engineers with cutting edge caliber in the field, competent in an international scene, to the demands of industry,research and entrepreneurship,while strictly adhering to moral values and professional ethics. </p>
                         </div>
                         </div>  
-                         <div class="col s12 m6">  
-                            <p class="font-2"><b>Program educational objectives</b></p>
-                            <p> The following objectives are what the faculty expects graduates from the program to be able to accomplish a few years after the commencement of their careers and stem directly from the program mission. The alumni from the Bachelor of Technology in Civil Engineering (B. Tech. CE) program at Civil Engineering Department of College of Engineering Kidangoor should:</p>
-							<ol type="1">
-								<li>Practice in civil engineering or a related field.</li>
-								<li>Practice and propagate concept of sustainable engineering.</li>
-								<li>Pursue advanced or continuing education in civil engineering or a related field.</li>
-                                <li>Act as responsible, effective, and ethical citizens.</li>
-                                <li>Communicate and collaborate effectively.</li>
-                           </ol> 
-                           </div>
-                           <div class="col s12 m6">
-                            <p class="font-2"><b>Program Outcomes</b></p>
-							<p> Upon graduating from the B. Tech. program of Civil Engineering Department of College of Engineering Kidangoor, students should possess:</p>
-							<ol type="1">
-								<li>An ability to apply knowledge of mathematics, science, and engineering.</li>
-								<li>An ability to design and conduct experiments, as well as to analyze and interpret data.</li>
-								<li>An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability and sustainability.</li>
-                                <li>An ability to function on multi-disciplinary teams.</li>
-                                <li>An ability to identify, formulate, and solve engineering problems.</li>
-                                <li>An understanding of professional and ethical responsibility as well as the importance of professional licensure.</li>
-                                <li>An ability to communicate effectively.</li>
-                                <li>The broad education necessary to understand the impact of engineering solutions in a global and societal context.</li>
-                                <li>A recognition of the need for, and an ability to engage in life-long learning.</li>
-                                <li>A knowledge of contemporary issues.</li>
-                                <li>An ability to use the techniques, skill, and modern engineering tools necessary for engineering practice.</li>
-                                <li>An ability to explain basic concepts in management, business, public policy, and leadership.</li>
-                                <li>An ability to evaluate concepts and ideas from alternative perspectives.</li>
-                           </ol>
-                           </div>
-                            <div class="col s12 m6">
-							<p ><b>Specific Outcomes</b></p>
-							<p> The students graduating from the program should possess</p>
-							<ol type="1">
-								<li>Ability to carry out civil engineering planning and design independently..</li>
-								<li>Ability to evaluate the project costs including that of the environmental impacts.</li>
-								<li>Ability to use various software and tools required for professional civil engineering practice.</li>
-                           </ol>
-                          </div>
+						<div class="contents">
+					<h3>Head of the Department</h3>
+					<div class="row faculty-members">
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="HOD-NAME-HERE"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Tina P G</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
 						</div>
+					</div>
+					<h4>Laboratories Under the Department</h4>
+            <ul>
+              <li><strong style="color:#000"><i class="fa fa-angle-double-right" aria-hidden="true"></i><b>Instrumentation Lab I</b></strong></li>
+            </ul>
+            <div>Our students are being introduced to the world of measurements & Instrumentation in their first instrumentation lab. In this lab they will be doing experiments with different types of transducers for measurement of displacement, temperature etc. They will be using different types of bridge circuits for measurement of resistance capacitance and inductance etc. </div>
+            <div>
+              <div></div>
+              <ul>
+                <li><strong style="color:#000"><i class="fa fa-angle-double-right" aria-hidden="true"></i><b>Instrumentation Lab II </b></strong></li>
+              </ul>
+              <div> In this Lab II they will be doing experiments mainly with operational amplifiers and other wide band amplifiers and fillers, which are inevitable parts in any signal conditioning or instrumentation system. After the completion of this lab, students can design different types of filters, instrumentation amplifiers etc. Suitable for different applications like noise reduction, noise freezing, amplification of differential input signals etc. </div>
+            </div>
+					<h3>Faculties</h3>
+					<div class="row faculty-members">
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Jasna K</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Sithara A</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/male.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Saji Justus</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/male.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Dinu A G</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Bushara M</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+						<div class="col s12 m6 l4 member">
+							<div class="box">
+								<div class="image">
+									<img src="assets/img/female.jpg" alt="FACULTY-NAME"/>
+								</div>
+								<div class="overlay"><i class="fa fa-link"></i></div>
+								<div class="description">
+									<p class="name">Shincy P Kunjumon</p>
+									<p class="subj">Assistant Professor</p>
+								</div>
+								<a href="#" class="overlay-link"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>		
 		</div>
 		<?php require "footer.php"; ?>
 	</div>
