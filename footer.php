@@ -9,8 +9,8 @@
 							<ul>
 	                          	<li><a title="Moodle" href="http://172.17.0.50/moodle">Moodle@cek</a></li>
 	                          	<li><a href="http://ce-kgr.org/bog-members/">BOG Members-TEQIP</a></li>
-	                          	<li><a href="http://ce-kgr.org/student-corner/">Student Corner</a></li>
-	                          	<li><a href="http://ce-kgr.org/nss/">National Service Scheme</a></li>
+	                          	<li><a href="studentcorner.php">Student Corner</a></li>
+	                          	<li><a href="http://ce-kgr.org/nss/">Tequip</a></li>
 	                          	<li><a href="http://ce-kgr.org/category/tender/">Tender Notices</a></li>
                       		</ul>
 						</div>
