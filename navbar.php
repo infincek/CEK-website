@@ -38,7 +38,7 @@
 				    	<a href="#" data-target="mobile" class="sidenav-trigger"><i class="fa fa-bars"></i></a>
 				      	<ul id="nav-mobile" class="hide-on-med-and-down">
 				        	<li><a href="/">Home</a></li>
-				        	<li><a class="dropdown-trigger" data-target="about-dropdown" href="aboutus.php">About Us</a></li>
+				        	<li><a class="dropdown-trigger" data-target="about-dropdown" href="#">About Us</a></li>
 				        	<li><a href="admission.php">Admission 2019-20</a></li>
 				        	<li><a class="dropdown-trigger" data-target="academics-dropdown" href="#">Academics</a></li>
 				        	<li><a href="#" class="dropdown-trigger" data-target="departments-dropdown">Departments</a></li>

@@ -250,13 +250,13 @@ nav #nav-mobile{
 	text-transform:uppercase;
 }
 
+/* #list1 li{
+	margin-left: 50px;
+}	*/
+
 #copyright{
 	background: #4caf50;
 	padding: 10px;
 	text-align: center;
 	color: #fff;
 }
-
-/*#list1{
-	padding-left: 100px;
-}*/

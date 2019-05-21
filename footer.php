@@ -17,10 +17,10 @@
 						<div class="col s12 m4">
 							<ul>
 	                          	<li><a title="Moodle" href="pta.php">PTA</a></li>
-	                          	<li><a href="http://ce-kgr.org/bog-members/">Alumini</a></li>
-	                          	<li><a href="http://ce-kgr.org/student-corner/">Anti-Ragging</a></li>
-	                          	<li><a href="http://ce-kgr.org/nss/">Mandatory Disclosure</a></li>
-	                          	<li><a href="http://ce-kgr.org/category/tender/">Right to Information Act</a></li>
+	                          	<li><a href="alumini.php">Alumini</a></li>
+	                          	<li><a href="antiragging.php">Anti-Ragging</a></li>
+	                          	<li><a href="#">Mandatory Disclosure</a></li>
+	                          	<li><a href="ria.php">Right to Information Act</a></li>
                       		</ul>
 						</div>
 						<div class="col s12 m4">
