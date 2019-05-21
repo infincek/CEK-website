@@ -39,7 +39,7 @@ include "head.php";
                     <p class="name">Ojus Thomas Lee</p>
                     <p class="subj">Associate Professor</p>
                   </div>
-                  <a href="cshod.php" class="overlay-link"></a>
+                  <a href="ojus.php" class="overlay-link"></a>
                 </div>
               </div>
             </div>
@@ -193,10 +193,64 @@ include "head.php";
                 </div>
                 <a href="#" class="overlay-link"></a>
               </div>
+						</div>
+					<h3>Technical Staff</h3>
+          <div class="row faculty-members">
+            <div class="col s12 m6 l4 member">
+              <div class="box">
+                <div class="image">
+                  <img src="assets/img/male.jpg" alt="FACULTY-NAME" />
+                </div>
+                <div class="overlay"><i class="fa fa-link"></i></div>
+                <div class="description">
+                  <p class="name">Shinu Jacobi</p>
+                  <p class="subj">Tradesman</p>
+                </div>
+                <a href="#" class="overlay-link"></a>
+              </div>
+            </div>
+            <div class="col s12 m6 l4 member">
+              <div class="box">
+                <div class="image">
+                  <img src="assets/img/female.jpg" alt="FACULTY-NAME" />
+                </div>
+                <div class="overlay"><i class="fa fa-link"></i></div>
+                <div class="description">
+                  <p class="name">Dhanyajamol M.M</p>
+                  <p class="subj">Computer Programmerr</p>
+                </div>
+                <a href="#" class="overlay-link"></a>
+              </div>
+            </div>
+            <div class="col s12 m6 l4 member">
+              <div class="box">
+                <div class="image">
+                  <img src="assets/img/female.jpg" alt="FACULTY-NAME" />
+                </div>
+                <div class="overlay"><i class="fa fa-link"></i></div>
+                <div class="description">
+                  <p class="name">Lekshmi Mol T.R </p>
+                  <p class="subj">Apprentice Trainee</p>
+                </div>
+                <a href="#" class="overlay-link"></a>
+              </div>
+            </div>
+            <div class="col s12 m6 l4 member">
+              <div class="box">
+                <div class="image">
+                  <img src="assets/img/female.jpg" alt="FACULTY-NAME" />
+                </div>
+                <div class="overlay"><i class="fa fa-link"></i></div>
+                <div class="description">
+                  <p class="name">Archana Venu</p>
+                  <p class="subj">Apprentice Trainee</p>
+                </div>
+								<a href="#" class="overlay-link"></a>
+               </div>
+              </div>
             </div>
           </div>
         </div>
-
       </div>
     </div>
     <?php require "footer.php"; ?>

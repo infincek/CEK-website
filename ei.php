@@ -39,7 +39,7 @@ include "head.php";
 									<p class="name">Tina P G</p>
 									<p class="subj">Assistant Professor</p>
 								</div>
-								<a href="#" class="overlay-link"></a>
+								<a href="eihod.php" class="overlay-link"></a>
 							</div>
 						</div>
 					</div>

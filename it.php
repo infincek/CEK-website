@@ -40,7 +40,7 @@ include "head.php";
 									<p class="name">Mrs. Shyma A</p>
 									<p class="subj">Assistant Professor</p>
 								</div>
-								<a href="#" class="overlay-link"></a>
+								<a href="ithod.php" class="overlay-link"></a>
 							</div>
 						</div>
 					</div>

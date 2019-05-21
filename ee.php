@@ -39,7 +39,7 @@ include "head.php";
 									<p class="name">Indhu P. Nair</p>
 									<p class="subj">Associate Professor </p>
 								</div>
-								<a href="#" class="overlay-link"></a>
+								<a href="eehod.php" class="overlay-link"></a>
 							</div>
 						</div>
 					</div> 
@@ -180,7 +180,7 @@ include "head.php";
 								<div class="overlay"><i class="fa fa-link"></i></div>
 								<div class="description">
 									<p class="name">Raji Reghunathan </p>
-									<p class="subj">Assistant Professor</p>
+									<p class="subj">Assistant Professor(Adhoc)</p>
 								</div>
 								<a href="#" class="overlay-link"></a>
 							</div>
@@ -210,10 +210,41 @@ include "head.php";
 								</div>
 								<a href="#" class="overlay-link"></a>
 							</div>
-						</div>
-					</div>
-				</div>
+						</div>	
+			<div>			
+			<h3>Technical Staff</h3>
+          <div class="row faculty-members">
+            <div class="col s12 m6 l4 member">
+              <div class="box">
+                <div class="image">
+                  <img src="assets/img/female.jpg" alt="FACULTY-NAME" />
+                </div>
+                <div class="overlay"><i class="fa fa-link"></i></div>
+                <div class="description">
+                  <p class="name">Remisha Remanan</p>
+                  <p class="subj">Instructor Grade II</p>
+                </div>
+                <a href="#" class="overlay-link"></a>
+              </div>
+            </div>
+            <div class="col s12 m6 l4 member">
+              <div class="box">
+                <div class="image">
+                  <img src="assets/img/male.jpg" alt="FACULTY-NAME" />
+                </div>
+                <div class="overlay"><i class="fa fa-link"></i></div>
+                <div class="description">
+                  <p class="name">Sudheesh K</p>
+                  <p class="subj">Tradesman</p>
+                </div>
+                <a href="#" class="overlay-link"></a>
+                </div>
+			 </div>
 			</div>
+		  </div>
+		   </div>
+	      </div>
+		 </div>
 		</div>
 		<?php require "footer.php"; ?>
 	</div>

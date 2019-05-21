@@ -39,7 +39,7 @@ include "head.php";
 									<p class="name">Dr.Mathew B.V</p>
 									<p class="subj">Professor</p>
 								</div>
-								<a href="#" class="overlay-link"></a>
+								<a href="civilhod.php" class="overlay-link"></a>
 							</div>
 						</div>
 					</div>  

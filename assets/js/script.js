@@ -3,9 +3,6 @@ $(document).ready(function(){
     $('.carousel.carousel-slider').carousel({
     	fullWidth: true,
 			indicators:true,
-			autoplay:true,
-			autoplayTimeout:5000,
-			autoplayHoverPause:true
   	});
     $('.materialboxed').materialbox();
 	
