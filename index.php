@@ -89,21 +89,6 @@ include "head.php";
 						<div class="item">
 							<div class="row">
 								<div class="col s12 m6 l5">
-									<img src="assets/img/ieee.jpg" alt="Campus Life"/>
-								</div>
-								<div class="col s12 m6 l7">
-									<h3>IEEE</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-									consequat.</p>
-									<a class="btn btn-medium waves-effect" href="IEEE.php">Know More</a>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="row">
-								<div class="col s12 m6 l5">
 									<img src="assets/img/nss.jpg" alt="Campus Life"/>
 								</div>
 								<div class="col s12 m6 l7">
@@ -143,6 +128,33 @@ include "head.php";
 									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 									consequat.</p>
 									<a class="btn btn-medium waves-effect" href="lumiere.php">Know More</a>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="row">
+								<div class="col s12 m6 l5">
+									<img src="assets/img/infincek.png" alt="Campus Life"/>
+								</div>
+								<div class="col s12 m6 l7">
+									<h3>InfinCEK</h3>
+									<p>InfinCEK acts as the student research and development wing of
+										College of Engineering Kidangoor.The members of InfinCEK have been
+										involved in multiple projects, competitions and has attended and organised workshops. .</p>
+									<a class="btn btn-medium waves-effect" href="https://infincek.wixsite.com/infincek">Know More</a>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="row">
+								<div class="col s12 m6 l5">
+									<img src="assets/img/ieee.jpg" alt="Campus Life"/>
+								</div>
+								<div class="col s12 m6 l7">
+									<h3>IEEE</h3>
+									<p>IEEE is the world’s largest professional association dedicated
+										 to advancing technological innovation and excellence for the benefit of humanity. </p>
+									<a class="btn btn-medium waves-effect" href="IEEE.php">Know More</a>
 								</div>
 							</div>
 						</div>
