@@ -16,7 +16,7 @@
 						</div>
 						<div class="col s12 m4">
 							<ul>
-	                          	<li><a title="Moodle" href="http://172.17.0.50/moodle">PTA</a></li>
+	                          	<li><a title="Moodle" href="pta.php">PTA</a></li>
 	                          	<li><a href="http://ce-kgr.org/bog-members/">Alumini</a></li>
 	                          	<li><a href="http://ce-kgr.org/student-corner/">Anti-Ragging</a></li>
 	                          	<li><a href="http://ce-kgr.org/nss/">Mandatory Disclosure</a></li>
