@@ -70,10 +70,10 @@
 				<li><a href="humanities.php">Humanities and Science</a></li>
 			</ul>
 			<ul id="facilities-dropdown" class="dropdown-content">
-				<li><a href="#">Central Computer Facility</a></li>
-				<li><a href="#">Library</a></li>
-				<li><a href="#">Office</a></li>
-				<li><a href="#">Other</a></li>
+				<li><a href="central.php">Central Computer Facility</a></li>
+				<li><a href="library.php">Library</a></li>
+				<li><a href="office.php">Office</a></li>
+				<li><a href="other.php">Other</a></li>
 			</ul>
 			<ul class="sidenav" id="mobile">
 				<li class="user-view"><a href="/"><img src="assets/img/logo.png" alt="College of Engineering Kidangoor"/></a></li>

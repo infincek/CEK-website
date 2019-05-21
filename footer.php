@@ -16,20 +16,20 @@
 						</div>
 						<div class="col s12 m4">
 							<ul>
-	                          	<li><a title="Moodle" href="http://172.17.0.50/moodle">Moodle@cek</a></li>
-	                          	<li><a href="http://ce-kgr.org/bog-members/">BOG Members-TEQIP</a></li>
-	                          	<li><a href="http://ce-kgr.org/student-corner/">Student Corner</a></li>
-	                          	<li><a href="http://ce-kgr.org/nss/">National Service Scheme</a></li>
-	                          	<li><a href="http://ce-kgr.org/category/tender/">Tender Notices</a></li>
+	                          	<li><a title="Moodle" href="http://172.17.0.50/moodle">PTA</a></li>
+	                          	<li><a href="http://ce-kgr.org/bog-members/">Alumini</a></li>
+	                          	<li><a href="http://ce-kgr.org/student-corner/">Anti-Ragging</a></li>
+	                          	<li><a href="http://ce-kgr.org/nss/">Mandatory Disclosure</a></li>
+	                          	<li><a href="http://ce-kgr.org/category/tender/">Right to Information Act</a></li>
                       		</ul>
 						</div>
 						<div class="col s12 m4">
 							<ul>
-	                          	<li><a title="Moodle" href="http://172.17.0.50/moodle">Moodle@cek</a></li>
-	                          	<li><a href="http://ce-kgr.org/bog-members/">BOG Members-TEQIP</a></li>
-	                          	<li><a href="http://ce-kgr.org/student-corner/">Student Corner</a></li>
-	                          	<li><a href="http://ce-kgr.org/nss/">National Service Scheme</a></li>
-	                          	<li><a href="http://ce-kgr.org/category/tender/">Tender Notices</a></li>
+	                          	<li><a title="Moodle" href="http://172.17.0.50/moodle">Contact Us</a></li>
+	                          	<li><a href="http://ce-kgr.org/bog-members/">Faculty Login</a></li>
+	                          	<li><a href="http://ce-kgr.org/student-corner/">Downloads</a></li>
+	                          	<li><a href="http://ce-kgr.org/nss/">Campus Management System</a></li>
+	                          	<li><a href="http://ce-kgr.org/category/tender/">Webmail</a></li>
                       		</ul>
 						</div>
 					</div>

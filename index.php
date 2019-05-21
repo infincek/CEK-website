@@ -89,25 +89,55 @@ include "head.php";
 						<div class="item">
 							<div class="row">
 								<div class="col s12 m6 l5">
-									<img src="https://placeimg.com/400/500/all" alt="Campus Life"/>
+									<img src="assets/img/ieee.jpg" alt="Campus Life"/>
 								</div>
 								<div class="col s12 m6 l7">
-									<h3>Innovate</h3>
+									<h3>IEEE</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 									consequat.</p>
-									<a class="btn btn-medium waves-effect" href="#">Know More</a>
+									<a class="btn btn-medium waves-effect" href="IEEE.php">Know More</a>
 								</div>
 							</div>
 						</div>
 						<div class="item">
 							<div class="row">
 								<div class="col s12 m6 l5">
-									<img src="assets/img/lumiere18.jpg" alt="Campus Life"/>
+									<img src="assets/img/nss.jpg" alt="Campus Life"/>
 								</div>
 								<div class="col s12 m6 l7">
-									<h3>Lumiere</h3>
+									<h3>NSS</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat.</p>
+									<a class="btn btn-medium waves-effect" href="nss.php">Know More</a>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="row">
+								<div class="col s12 m6 l5">
+									<img src="assets/img/lumiere2018.jpg" alt="Campus Life"/>
+								</div>
+								<div class="col s12 m6 l7">
+									<h3>LUMIERE</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat.</p>
+									<a class="btn btn-medium waves-effect" href="lumiere.php">Know More</a>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="row">
+								<div class="col s12 m6 l5">
+									<img src="assets/img/gallery.jpg" alt="Campus Life"/>
+								</div>
+								<div class="col s12 m6 l7">
+									<h3>GALLERY</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -133,7 +163,7 @@ include "head.php";
 									<img src="assets/img/cslogo.png" alr="CSE"/>
 								</div>
 								<div class="description">
-									<a class="overlay-link" href="#"></a>
+									<a class="overlay-link" href="cs.php"></a>
 									<span class="v-center"></span>
 									<p class="font-2 middle"><b>Computer Science and Engineering</b></p>
 								</div>
@@ -145,7 +175,7 @@ include "head.php";
 									<img src="assets/img/eclogo1.jpg" alr="ECE"/>
 								</div>
 								<div class="description">
-									<a class="overlay-link" href="#"></a>
+									<a class="overlay-link" href="ec.php"></a>
 									<span class="v-center"></span>
 									<p class="font-2 middle"><b>Electronics and Communication Engineering</b></p>
 								</div>
@@ -157,7 +187,7 @@ include "head.php";
 									<img src="assets/img/eeelogo.jpg" alr="EEE"/>
 								</div>
 								<div class="description">
-									<a class="overlay-link" href="#"></a>
+									<a class="overlay-link" href="ee.php"></a>
 									<span class="v-center"></span>
 									<p class="font-2 middle"><b>Electronics and Electrical Engineering</b></p>
 								</div>
@@ -169,7 +199,7 @@ include "head.php";
 									<img src="assets/img/eilogo.jpg" alr="EI"/>
 								</div>
 								<div class="description">
-									<a class="overlay-link" href="#"></a>
+									<a class="overlay-link" href="ei.php"></a>
 									<span class="v-center"></span>
 									<p class="font-2 middle"><b>Electronics and Instrumentation Engineering</b></p>
 								</div>
@@ -181,7 +211,7 @@ include "head.php";
 									<img src="assets/img/newit1.jpg" alr="IT"/>
 								</div>
 								<div class="description">
-									<a class="overlay-link" href="#"></a>
+									<a class="overlay-link" href="it.php"></a>
 									<span class="v-center"></span>
 									<p class="font-2 middle"><b>Information Technology</b></p>
 								</div>
@@ -193,7 +223,7 @@ include "head.php";
 									<img src="assets/img/civilogo.jpg" alr="CE"/>
 								</div>
 								<div class="description">
-									<a class="overlay-link" href="#"></a>
+									<a class="overlay-link" href="civil.php"></a>
 									<span class="v-center"></span>
 									<p class="font-2 middle"><b>Civil Engineering</b></p>
 								</div>
@@ -254,7 +284,7 @@ include "head.php";
 						<div class="col s12 m5 infos">
 							<p class="info">
 								<i class="ico fa fa-map-marker"></i>
-								<span class="data">College of Enginnering, <br/>KIDANGOOR SOUTH P.O</br>KOTTAYAM – 686 583</span>
+								<span class="data">College of Enginnering Kidangoor, <br/>KIDANGOOR SOUTH P.O<br>KOTTAYAM – 686 583</span>
 							</p>
 							<p class="info">
 								<i class="ico fa fa-phone"></i>
