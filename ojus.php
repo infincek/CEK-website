@@ -58,8 +58,7 @@ include "head.php";
                                 <div class="header">
                                     <p><i class="fa fa-university"></i> PG & Institution </p>
                                 </div>
-                                <p class="value">M.Tech,<br>
-VIT University, Vellore</p>
+                                <p class="value">M.Tech,<br>VIT University, Vellore</p>
                             </li>
                             <li>
                                 <div class="header">
@@ -77,14 +76,19 @@ VIT University, Vellore</p>
                                 <div class="header">
                                     <p><i class="fa fa-cog"></i> Specialization </p>
                                 </div>
-                                <p class="value">Internet Programming, Databases,<br>
-Wireless Sensor Networks</p>
+                                <p class="value">Internet Programming, Databases,<br>Wireless Sensor Networks</p>
                             </li>
                             <li>
                                 <div class="header">
                                     <p><i class="fa fa-bullhorn"></i> Any Other Relevant Details </p>
                                 </div>
                                 <p class="value"></p>
+                            </li>
+                            <li>
+                                <div class="header">
+                                    <p><i class="fa fa-phone-square" aria-hidden="true"></i>Mobile Number</p>
+                                </div>
+                                <p class="value">nil<br>
                             </li>
                         </ul>
                     </div>
