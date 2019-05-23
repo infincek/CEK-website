@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/infincek/CEK-website.svg?branch=master)](https://travis-ci.com/infincek/CEK-website)
 # CEK-website
 Git Mirror for College's website design
 
