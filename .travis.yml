@@ -1,0 +1,15 @@
+language: php
+
+php: 7.2
+
+script: phpunit
+
+matrix:
+
+        fast_finish:true
+
+notifications:
+
+   on_success: never
+
+   on_failure: always
