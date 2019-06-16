@@ -148,7 +148,7 @@ include "head.php";
 						<div class="item">
 							<div class="row">
 								<div class="col s12 m6 l5">
-									<img src="assets/img/ieee.jpg" alt="Campus Life"/>
+									<img src="assets/img/IEEE.jpg" alt="Campus Life"/>
 								</div>
 								<div class="col s12 m6 l7">
 									<h3>IEEE</h3>
