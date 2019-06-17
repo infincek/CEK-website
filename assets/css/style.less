@@ -297,7 +297,7 @@ nav{
 	    background: transparent;
 	    outline: 0;
 	    border: 0;
-	    color:@secondaryColor;
+	    color: @secondaryColor;
 	    font-size: 3em;
 	}
 	.owl-dots{
@@ -518,6 +518,103 @@ nav{
   }
 }
 
+.placements{
+	.col{
+		padding: 15px;
+	}
+	.box{
+		position: relative;
+		overflow: hidden;
+		border-radius: 4px;
+		box-shadow: 1px 2px 5px -2px #222;
+		img{
+			width: 100%;
+			display: block;
+		}
+		.overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			color: #fff;
+			&:after{
+				content: "";
+				position: absolute;
+				top: 0;
+				left: 0;
+				background: rgba(66, 165, 245, 0.7);
+				width: 100%;
+				height: 100%;
+				transition: transform .35s;
+			}
+			.name{
+				font-weight: bold;
+				font-size: 1.5em;
+				position: absolute;
+				bottom: 0;
+				left: 10px;
+				transition: opacity .25s;
+				z-index: 2;
+			}
+		}
+		&:hover{
+			.overlay{
+				&:after{
+					transform: translate(0,100%);
+				}
+				.name{
+					opacity: 0;
+				}
+			}
+		}
+	}
+}
+
+.students{
+	.col{
+		padding: 15px;
+	}
+	.box{
+		box-shadow: 1px 1px 8px -3px rgba(0,0,0,.2);
+		border-radius: 4px;
+		overflow: hidden;
+		.image{
+			position: relative;
+			text-align: center;
+			padding: 30px 0;
+			padding-bottom: 0;
+			img{
+				width: 150px;
+				border-radius: 50%;
+				position: relative;
+				z-index: 2;
+				border: 3px solid #fff;
+			}
+			&:after{
+				content: "";
+				position: absolute;
+				top:0;
+				left: 0;
+				width: 100%;
+				height: 60%;
+				background: lighten(@secondaryColor, 15%);
+			}
+		}
+		.description{
+			padding: 15px 0;
+			text-align: center;
+			p{
+				margin: 0;
+			}
+			.name{
+				color: @fontBoldColor;
+				font-size: 1.1em;
+			}
+		}
+	}
+}
+
 .list{
 	p{
 		margin: 0 !important;
@@ -594,8 +691,4 @@ nav{
 	h4{
 		font-size: 1.75em;
 	}
-}
-
-#list1 {
-	margin-left: 20px;
 }
