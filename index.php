@@ -93,10 +93,7 @@ include "head.php";
 								</div>
 								<div class="col s12 m6 l7">
 									<h3>NSS</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-									consequat.</p>
+									<p> The NSS unit of College of Engineering Kidangoor is a very socially active body which upholds the NSS motto of “NOT ME BUT YOU” and enables the students to remain connected with the society and updated about their problems.</p>
 									<a class="btn btn-medium waves-effect" href="nss.php">Know More</a>
 								</div>
 							</div>
@@ -108,10 +105,7 @@ include "head.php";
 								</div>
 								<div class="col s12 m6 l7">
 									<h3>LUMIERE</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-									consequat.</p>
+									<p>LUMIERE the prestigious national level technical and cultural fest hosted by the College of Engineering Kidangoor </p>
 									<a class="btn btn-medium waves-effect" href="lumiere.php">Know More</a>
 								</div>
 							</div>
@@ -119,22 +113,19 @@ include "head.php";
 						<div class="item">
 							<div class="row">
 								<div class="col s12 m6 l5">
-									<img src="assets/img/gallery.jpg" alt="Campus Life"/>
+									<img src="assets/img/gallery1.jpg" alt="Campus Life"/>
 								</div>
 								<div class="col s12 m6 l7">
 									<h3>GALLERY</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-									consequat.</p>
-									<a class="btn btn-medium waves-effect" href="lumiere.php">Know More</a>
+									<p>Some of our best moments</p>
+									<a class="btn btn-medium waves-effect" href="demo.php">Know More</a>
 								</div>
 							</div>
 						</div>
 						<div class="item">
 							<div class="row">
 								<div class="col s12 m6 l5">
-									<img src="assets/img/infincek.png" alt="Campus Life"/>
+									<img src="assets/img/infincek.jpg" alt="Campus Life"/>
 								</div>
 								<div class="col s12 m6 l7">
 									<h3>InfinCEK</h3>
@@ -148,7 +139,7 @@ include "head.php";
 						<div class="item">
 							<div class="row">
 								<div class="col s12 m6 l5">
-									<img src="assets/img/ieee.jpg" alt="Campus Life"/>
+									<img src="assets/img/IEEE.jpg" alt="Campus Life"/>
 								</div>
 								<div class="col s12 m6 l7">
 									<h3>IEEE</h3>

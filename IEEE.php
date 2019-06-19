@@ -12,7 +12,7 @@ include "head.php";
             <img src="assets/img/ec.jpg" alr="ECE" height="500" width="100%">
            </div> -->
 			<div class="contents">
-				<p> IEEEand is the department specializing various fields like Mathematics, Physics , Chemistry , Humanities , Management , Environmental Science etc. The AS&H department has well qualified faculties including Professors, Visiting Professors and Lecturers.</b>
+				<p> IEEE is the department specializing various fields like Mathematics, Physics , Chemistry , Humanities , Management , Environmental Science etc. The AS&H department has well qualified faculties including Professors, Visiting Professors and Lecturers.</b>
                 <br>
                  <p> The Department has well experienced and dedicated faculty members with specializations in Mathematics, Physics , Chemistry , Humanities , Management , Environmnetal Science etc </p>
 						</div>

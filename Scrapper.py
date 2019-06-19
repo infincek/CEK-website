@@ -14,7 +14,7 @@ for x in range(28):
     temp = elems[x].getText()
     det.append(temp)
 print(det[:])
-print(elems.prettify())
+
 # det.pop(0)
 # det.pop(1)
 # det.pop(3)
@@ -43,6 +43,8 @@ soup.title.string = det[2]
 soup.title.string.insert_after(" | CEK")
 soup.body.div.h2.span.string = det[2]
 
+f = open("ojusfinal.php", "x")
+f.write(soup)
 # print(tag)
 # soup.body.div.select('div [class="title center"]').string = "Ojumon"
 # tag = soup.body.div.select('div [class="title center"]')
