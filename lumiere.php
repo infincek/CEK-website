@@ -9,31 +9,24 @@ include "head.php";
 				<h2 class="underlined"><span>LUMIERE</span></h2>
 			</div>
 			<div class="contents">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<p>Lumiere is the National level techno-cultural fest conducted by college of engineering Kidangoor.It continues to exist with it's wide array of technical and nontechnical events since 20's .Accomplish the epitome of brilliance in the two day spectacular nerve wracking competition and spot events.
+                 <p>An incomprehensible emotion which made us euphoric</p>
+                 <p>A radiant outburst of creativity which evokes the imagination.</p>
+				<p>A ligature that binds thousand minds</p>
+				<p>The uniqueness which made us</p>
+				<p>A magnum of spirit</p>
 			</div>
+			<div class="row">
+			<div class="col s12 m4">
+						<img src="./assets/img/lm2.jpg" class="responsive-img materialboxed"/>
+					</div>
+					<div class="col s12 m4">
+						<img src="./assets/img/lm3.jpg" class="responsive-img materialboxed"/>
+					</div>
+					<div class="col s12 m4">
+						<img src="./assets/img/lm7.jpg" class="responsive-img materialboxed"/>
+					</div>
+					</div>
 		</div>
 		<?php require "footer.php"; ?>
 	</div>
